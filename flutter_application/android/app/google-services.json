@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283652485039",
+    "project_id": "new-online-shop-74b83",
+    "storage_bucket": "new-online-shop-74b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283652485039:android:25243133e0abe26789495a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyV7sHjkHat5-2ZH8OqxZ8RRPBt9n-D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
